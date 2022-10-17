@@ -20,7 +20,7 @@
 📝 I have a strong interest in web development.
 🌱 Learning about Java backend development
 🌟 Main languages: Java
-🤔 I’m currently open Link for my resume:<a href="https://drive.google.com/file/d/1Na6M_3UKA7vXQKth6wdmgJVZZfN_AjET/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open Link for my resume:<a href="https://drive.google.com/file/d/1p4xQWKRxudbg7L3osXdVTtNQJZIz8beL/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
