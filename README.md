@@ -114,23 +114,18 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/uz-java/Online-shop/tree/onlineShop"><b>Online-shop</b></a></td>
+      <td><a href="https://github.com/DilshodbekOtajonov/Centralized_Swagger"><b>Centralized Swagger</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/uz-java/Spring_mvc/tree/asliddin"><b>Library application</b></a></td>
+      <td><a href="https://github.com/DilshodbekOtajonov/Trello_API"><b>Trello API</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 <br>
-
-### :fire: My Github Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DilshodbekOtajonov&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshodbekOtajonov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
