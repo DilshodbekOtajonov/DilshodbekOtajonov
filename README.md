@@ -15,12 +15,12 @@
 
 <hr>
 <pre>
-💻 I am Java backend and Database developer.
+💻 I am Java backend developer.
 📚 I have a Bachelors in BA Business Management from Westminster University in Tashkent.
 📝 I have a strong interest in web development.
 🌱 Learning about Java backend development
 🌟 Main languages: Java
-🤔 I’m currently open Link for my resume:<a href="https://drive.google.com/file/d/1p4xQWKRxudbg7L3osXdVTtNQJZIz8beL/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for work. Link to my resume:<a href="https://drive.google.com/file/d/1p4xQWKRxudbg7L3osXdVTtNQJZIz8beL/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
