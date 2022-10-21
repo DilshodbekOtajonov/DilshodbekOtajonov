@@ -126,8 +126,18 @@
 </table>
 <br>
 
+### :fire: My Github Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DilshodbekOtajonov&theme=dark&background=000000)](https://github.com/DilshodbekOtajonov/)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilshodbekOtajonov&theme=dark&background=000000"
+    alt="adam-pw" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshodbekOtajonov&theme=dark&background=000000)](https://github.com/DilshodbekOtajonov/)
+
 </div>
 
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
 </h1>
+
